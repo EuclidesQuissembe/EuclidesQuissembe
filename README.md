@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Euclides Bernardo (DevIce)
+# Euclides Bernardo (IceDev)
 
 #### "I am passionate about the world of I.T and I always liked to program. Programming is my passion. Thanks to my effort and dedication I am achieving goals that I have always wanted. Focus and work is always good.".
 
